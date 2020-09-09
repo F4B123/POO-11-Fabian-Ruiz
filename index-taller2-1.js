@@ -1,4 +1,4 @@
-const canvas = document.getElementById('lienzo');
+const canvas = document.getElementById('lienzo');        //muestra el efecto de transparencia
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
