@@ -1,5 +1,5 @@
 # POO-11
 Code for my course
 
+Aqui esta el codigo usado para el taller 2 del curso POO-11
 
-im going to add every code i do on the curse to this repository
