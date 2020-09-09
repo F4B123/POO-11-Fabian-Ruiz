@@ -9,7 +9,7 @@ canvas.style.backgroundColor = '#eeff00';
 
 const ctx = canvas.getContext('2d');
 
-ctx.fillStyle = 'orangered';
+ctx.fillStyle = 'orangered';                        
 ctx.fillRect(100, 100, 400, 400);
 
 
