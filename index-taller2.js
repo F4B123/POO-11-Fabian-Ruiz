@@ -1,4 +1,4 @@
-const canvas = document.getElementById('lienzo');
+const canvas = document.getElementById('lienzo');    //codigo usado para el la comparacion de colores en la primera imagen
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
