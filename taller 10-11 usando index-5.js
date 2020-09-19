@@ -1,4 +1,3 @@
-(function(){
 
 const canvas = document.getElementById( 'lienzo' );
 
@@ -99,5 +98,5 @@ drawGame();
 
 
 
-})();
+
 
